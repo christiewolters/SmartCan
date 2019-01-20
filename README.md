@@ -1,5 +1,4 @@
 # SmartCan
-H.A.R.D. Hack submission
 
 # Inspiration
 Look outside at UC San Diego. There are smart trashcans everywhere. These are incredibly helpful to people as they can tell if a trash can is full or not before opening the can and getting a strong whiff of someone's tuna leftovers for no reason. Similarly, janitors love these trashcans as they can quickly tell which trash cans need to be emptied. However, these trash cans are expensive. Our goal was to provide a low cost solution to turn any trash can into a smart trash can to save the world from unnecessary bad smells.
